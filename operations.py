@@ -1,5 +1,11 @@
 def info():
-    return "operaciones basicas"
+
+    return "Operaciones basicas"
+
+def resta(a,b):
+    return a-b
+    
 
 def suma(a,b):
     return a+b
+
